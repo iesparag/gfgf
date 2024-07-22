@@ -1,0 +1,353 @@
+{
+  "siteUrl": "https://beetrootag.sharepoint.com/sites/br-entwicklung",
+  "picture": "https://beetrootag.sharepoint.com/sites/teamworkadmin/TeamworkGraphImagesCache/Groups/7673f39a-87ed-4d64-82f1-2cfca2d6a706.png",
+  "membersStr": "[{\"key\":\"andreas.naef@beetroot.ag\",\"imageInitials\":\"AN\",\"text\":\"Andreas Naef\",\"hasImage\":true,\"imageAlt\":\"Andreas Naef\",\"personaName\":\"Andreas Naef\",\"membershipType\":2,\"msGraphUserId\":\"65eea66f-f265-45be-9612-5ef21d123d1b\"},{\"key\":\"lukas.mueller@beetroot.ag\",\"imageInitials\":\"LM\",\"text\":\"Lukas Müller\",\"hasImage\":true,\"imageAlt\":\"Lukas Müller\",\"personaName\":\"Lukas Müller\",\"membershipType\":2,\"msGraphUserId\":\"c9f33e78-27fa-4123-9a91-d50181203cba\"},{\"key\":\"daniel.schnyder@beetroot.ag\",\"imageInitials\":\"DS\",\"text\":\"Daniel Schnyder\",\"hasImage\":true,\"imageAlt\":\"Daniel Schnyder\",\"personaName\":\"Daniel Schnyder\",\"membershipType\":2,\"msGraphUserId\":\"1af00bd8-14a2-458d-82f3-f582384c2e99\"}]",
+  "members": [
+    {
+      "key": "andreas.naef@beetroot.ag",
+      "imageInitials": "AN",
+      "text": "Andreas Naef",
+      "hasImage": true,
+      "imageAlt": "Andreas Naef",
+      "personaName": "Andreas Naef",
+      "membershipType": 2,
+      "msGraphUserId": "65eea66f-f265-45be-9612-5ef21d123d1b"
+    },
+    {
+      "key": "lukas.mueller@beetroot.ag",
+      "imageInitials": "LM",
+      "text": "Lukas Müller",
+      "hasImage": true,
+      "imageAlt": "Lukas Müller",
+      "personaName": "Lukas Müller",
+      "membershipType": 2,
+      "msGraphUserId": "c9f33e78-27fa-4123-9a91-d50181203cba"
+    },
+    {
+      "key": "daniel.schnyder@beetroot.ag",
+      "imageInitials": "DS",
+      "text": "Daniel Schnyder",
+      "hasImage": true,
+      "imageAlt": "Daniel Schnyder",
+      "personaName": "Daniel Schnyder",
+      "membershipType": 2,
+      "msGraphUserId": "1af00bd8-14a2-458d-82f3-f582384c2e99"
+    },
+    {
+      "key": "markus.fischer@beetroot.ag",
+      "imageInitials": "MF",
+      "text": "Markus Fischer",
+      "hasImage": true,
+      "imageAlt": "Markus Fischer",
+      "personaName": "Markus Fischer",
+      "membershipType": 2,
+      "msGraphUserId": "71cc4239-0f84-47af-95ff-ff98196b80d0"
+    },
+    {
+      "key": "raphael.frei@beetroot.ag",
+      "imageInitials": "RF",
+      "text": "Raphael Frei",
+      "hasImage": true,
+      "imageAlt": "Raphael Frei",
+      "personaName": "Raphael Frei",
+      "membershipType": 2,
+      "msGraphUserId": "648b4c79-4605-4811-9bc5-6cf457e5154f"
+    },
+    {
+      "key": "vanessa.becker@beetroot.ag",
+      "imageInitials": "VB",
+      "text": "Vanessa Becker",
+      "hasImage": true,
+      "imageAlt": "Vanessa Becker",
+      "personaName": "Vanessa Becker",
+      "membershipType": 2,
+      "msGraphUserId": "6e683213-2fe7-4eac-a6c2-d6692c0e17f2"
+    },
+    {
+      "key": "priska.scherrer@beetroot.ag",
+      "imageInitials": "PS",
+      "text": "Priska Scherrer",
+      "hasImage": true,
+      "imageAlt": "Priska Scherrer",
+      "personaName": "Priska Scherrer",
+      "membershipType": 2,
+      "msGraphUserId": "a10393e7-52b5-42c4-b32e-012fdae44b23"
+    },
+    {
+      "key": "sandro.klaentschi@beetroot.ag",
+      "imageInitials": "SK",
+      "text": "Sandro Kläntschi",
+      "hasImage": true,
+      "imageAlt": "Sandro Kläntschi",
+      "personaName": "Sandro Kläntschi",
+      "membershipType": 2,
+      "msGraphUserId": "4d946463-81cc-4200-b968-26ea42fee079"
+    },
+    {
+      "key": "mario.niederhauser@beetroot.ag",
+      "imageInitials": "MN",
+      "text": "Mario Niederhauser",
+      "hasImage": true,
+      "imageAlt": "Mario Niederhauser",
+      "personaName": "Mario Niederhauser",
+      "membershipType": 2,
+      "msGraphUserId": "0f0fe3a1-f2bc-4d04-961e-a4c1ac5a9b77"
+    },
+    {
+      "key": "entwicklung.board@beetroot.ag",
+      "imageInitials": "EB",
+      "text": "Entwicklung Board",
+      "hasImage": true,
+      "imageAlt": "Entwicklung Board",
+      "personaName": "Entwicklung Board",
+      "membershipType": 2,
+      "msGraphUserId": "271c9849-37c6-43d2-bcc2-93c334a37e64"
+    },
+    {
+      "key": "timo.feller@beetroot.ag",
+      "imageInitials": "TF",
+      "text": "Timo Feller",
+      "hasImage": true,
+      "imageAlt": "Timo Feller",
+      "personaName": "Timo Feller",
+      "membershipType": 2,
+      "msGraphUserId": "ce34985f-1546-40ff-b9a2-48bb7ec2b51e"
+    },
+    {
+      "key": "martina.rueedi@beetroot.ag",
+      "imageInitials": "MR",
+      "text": "Martina Rüedi",
+      "hasImage": true,
+      "imageAlt": "Martina Rüedi",
+      "personaName": "Martina Rüedi",
+      "membershipType": 2,
+      "msGraphUserId": "2931b44a-daa1-456a-863a-09ab7ebc6007"
+    },
+    {
+      "key": "jean-pierre.cattin@beetroot.ag",
+      "imageInitials": "JC",
+      "text": "Jean-Pierre Cattin",
+      "hasImage": true,
+      "imageAlt": "Jean-Pierre Cattin",
+      "personaName": "Jean-Pierre Cattin",
+      "membershipType": 2,
+      "msGraphUserId": "0cdf383d-198c-492d-be78-08e10a549750"
+    },
+    {
+      "key": "armin.oberson@beetroot.ag",
+      "imageInitials": "AO",
+      "text": "Armin Oberson",
+      "hasImage": true,
+      "imageAlt": "Armin Oberson",
+      "personaName": "Armin Oberson",
+      "membershipType": 2,
+      "msGraphUserId": "f40969f2-bd2b-424c-b91b-cf375c4ddf38"
+    },
+    {
+      "key": "tobias.bitzi@beetroot.ag",
+      "imageInitials": "TB",
+      "text": "Tobias Bitzi",
+      "hasImage": false,
+      "imageAlt": "Tobias Bitzi",
+      "personaName": "Tobias Bitzi",
+      "membershipType": 2,
+      "msGraphUserId": "d819d9df-634d-42f2-a8c6-e1708f1100ca"
+    },
+    {
+      "key": "Victor.Huber@beetroot.ag",
+      "imageInitials": "VH",
+      "text": "Victor Huber",
+      "hasImage": false,
+      "imageAlt": "Victor Huber",
+      "personaName": "Victor Huber",
+      "membershipType": 2,
+      "msGraphUserId": "06a457c2-3342-4c96-9daf-70bbabbec7db"
+    },
+    {
+      "key": "Michaela.Weber@beetroot.ag",
+      "imageInitials": "MW",
+      "text": "Michaela Weber",
+      "hasImage": false,
+      "imageAlt": "Michaela Weber",
+      "personaName": "Michaela Weber",
+      "membershipType": 2,
+      "msGraphUserId": "41ec2ca4-a60c-44ea-961c-734a546a9b59"
+    }
+  ],
+  "totalMembers": 17,
+  "ownersStr": "[{\"key\":\"andreas.naef@beetroot.ag\",\"imageInitials\":\"AN\",\"text\":\"Andreas Naef\",\"hasImage\":true,\"imageAlt\":\"Andreas Naef\",\"personaName\":\"Andreas Naef\",\"membershipType\":1,\"msGraphUserId\":\"65eea66f-f265-45be-9612-5ef21d123d1b\"},{\"key\":\"lukas.mueller@beetroot.ag\",\"imageInitials\":\"LM\",\"text\":\"Lukas Müller\",\"hasImage\":true,\"imageAlt\":\"Lukas Müller\",\"personaName\":\"Lukas Müller\",\"membershipType\":1,\"msGraphUserId\":\"c9f33e78-27fa-4123-9a91-d50181203cba\"},{\"key\":\"daniel.schnyder@beetroot.ag\",\"imageInitials\":\"DS\",\"text\":\"Daniel Schnyder\",\"hasImage\":true,\"imageAlt\":\"Daniel Schnyder\",\"personaName\":\"Daniel Schnyder\",\"membershipType\":1,\"msGraphUserId\":\"1af00bd8-14a2-458d-82f3-f582384c2e99\"}]",
+  "totalOwners": 10,
+  "owners": [
+    {
+      "key": "andreas.naef@beetroot.ag",
+      "imageInitials": "AN",
+      "text": "Andreas Naef",
+      "hasImage": true,
+      "imageAlt": "Andreas Naef",
+      "personaName": "Andreas Naef",
+      "membershipType": 1,
+      "msGraphUserId": "65eea66f-f265-45be-9612-5ef21d123d1b"
+    },
+    {
+      "key": "lukas.mueller@beetroot.ag",
+      "imageInitials": "LM",
+      "text": "Lukas Müller",
+      "hasImage": true,
+      "imageAlt": "Lukas Müller",
+      "personaName": "Lukas Müller",
+      "membershipType": 1,
+      "msGraphUserId": "c9f33e78-27fa-4123-9a91-d50181203cba"
+    },
+    {
+      "key": "daniel.schnyder@beetroot.ag",
+      "imageInitials": "DS",
+      "text": "Daniel Schnyder",
+      "hasImage": true,
+      "imageAlt": "Daniel Schnyder",
+      "personaName": "Daniel Schnyder",
+      "membershipType": 1,
+      "msGraphUserId": "1af00bd8-14a2-458d-82f3-f582384c2e99"
+    },
+    {
+      "key": "raphael.frei@beetroot.ag",
+      "imageInitials": "RF",
+      "text": "Raphael Frei",
+      "hasImage": true,
+      "imageAlt": "Raphael Frei",
+      "personaName": "Raphael Frei",
+      "membershipType": 1,
+      "msGraphUserId": "648b4c79-4605-4811-9bc5-6cf457e5154f"
+    },
+    {
+      "key": "vanessa.becker@beetroot.ag",
+      "imageInitials": "VB",
+      "text": "Vanessa Becker",
+      "hasImage": true,
+      "imageAlt": "Vanessa Becker",
+      "personaName": "Vanessa Becker",
+      "membershipType": 1,
+      "msGraphUserId": "6e683213-2fe7-4eac-a6c2-d6692c0e17f2"
+    },
+    {
+      "key": "priska.scherrer@beetroot.ag",
+      "imageInitials": "PS",
+      "text": "Priska Scherrer",
+      "hasImage": true,
+      "imageAlt": "Priska Scherrer",
+      "personaName": "Priska Scherrer",
+      "membershipType": 1,
+      "msGraphUserId": "a10393e7-52b5-42c4-b32e-012fdae44b23"
+    },
+    {
+      "key": "sandro.klaentschi@beetroot.ag",
+      "imageInitials": "SK",
+      "text": "Sandro Kläntschi",
+      "hasImage": true,
+      "imageAlt": "Sandro Kläntschi",
+      "personaName": "Sandro Kläntschi",
+      "membershipType": 1,
+      "msGraphUserId": "4d946463-81cc-4200-b968-26ea42fee079"
+    },
+    {
+      "key": "mario.niederhauser@beetroot.ag",
+      "imageInitials": "MN",
+      "text": "Mario Niederhauser",
+      "hasImage": true,
+      "imageAlt": "Mario Niederhauser",
+      "personaName": "Mario Niederhauser",
+      "membershipType": 1,
+      "msGraphUserId": "0f0fe3a1-f2bc-4d04-961e-a4c1ac5a9b77"
+    },
+    {
+      "key": "timo.feller@beetroot.ag",
+      "imageInitials": "TF",
+      "text": "Timo Feller",
+      "hasImage": true,
+      "imageAlt": "Timo Feller",
+      "personaName": "Timo Feller",
+      "membershipType": 1,
+      "msGraphUserId": "ce34985f-1546-40ff-b9a2-48bb7ec2b51e"
+    },
+    {
+      "key": "martina.rueedi@beetroot.ag",
+      "imageInitials": "MR",
+      "text": "Martina Rüedi",
+      "hasImage": true,
+      "imageAlt": "Martina Rüedi",
+      "personaName": "Martina Rüedi",
+      "membershipType": 1,
+      "msGraphUserId": "2931b44a-daa1-456a-863a-09ab7ebc6007"
+    }
+  ],
+  "unseenCount": "0",
+  "enableDiscoverySettings": "True",
+  "defaultapp": "useapp1",
+  "filterstringkey1": "ValoTeamworkType",
+  "filterstringvalue1": "GroupTemplate Prozess",
+  "useapp1": "true",
+  "useapp2": "false",
+  "useapp2opturl": "",
+  "useapp3": "true",
+  "useapp4": "true",
+  "useapp5": "false",
+  "useapp5opturl": "",
+  "useapp6": "true",
+  "useapp7": "false",
+  "useapp8": "false",
+  "useapp9": "false",
+  "linkkey1": "",
+  "linkvalue1": "",
+  "linkkey2": "",
+  "linkvalue2": "",
+  "linkkey3": "",
+  "linkvalue3": "",
+  "linkkey4": "",
+  "linkvalue4": "",
+  "linkkey5": "",
+  "linkvalue5": "",
+  "favourite": false,
+  "lifecyclePolicy": {
+    "daysExtended": null,
+    "title": null,
+    "description": null,
+    "listItemId": 0,
+    "policyType": null
+  },
+  "templateName": "Prozess",
+  "templateNameLowerCase": "prozess",
+  "dynamicMetadata": {
+    "ctId": "0x0100961E60A8F8D7724CBC74B293934032AA",
+    "updatedBy": null,
+    "fieldValues": [
+      {
+        "fieldName": "Prozess",
+        "fieldType": "TaxonomyFieldType",
+        "values": ["8e795d61-2a17-49ca-9558-7e0d687e6d12"]
+      }
+    ]
+  },
+  "id": "7673f39a-87ed-4d64-82f1-2cfca2d6a706",
+  "title": "Beetroot AG - Entwicklung",
+  "titleLowerCase": "beetroot ag - entwicklung",
+  "description": "Entwicklung",
+  "allowExternalSharing": "true",
+  "classification": "",
+  "visibility": "Public",
+  "createdDateTime": "2022-04-22T09:20:21.0000000Z",
+  "partitionKey": "Group",
+  "groupActivity": {
+    "groupId": "7673f39a-87ed-4d64-82f1-2cfca2d6a706",
+    "reportRefreshDate": null,
+    "isDeleted": false,
+    "lastActivityDate": null,
+    "memberCount": null,
+    "externalMemberCount": null,
+    "reportPeriod": null,
+    "daysInactive": null
+  },
+  "_rid": "BYhQANr5bsDiBwAAAAAAAA==",
+  "_self": "dbs/BYhQAA==/colls/BYhQANr5bsA=/docs/BYhQANr5bsDiBwAAAAAAAA==/",
+  "_etag": "\"46000c18-0000-0d00-0000-648083f50000\"",
+  "_attachments": "attachments/",
+  "_ts": 1686143989
+}

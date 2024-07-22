@@ -1,0 +1,40 @@
+Converting team afreref (e5d96117-2912-4de8-8ebe-aee9e1298b43) using template 4889 and following metadata:
+[
+  {
+    "fieldId": 1403,
+    "value": "[{\"id\":\"9e7f8d2e-5c87-4750-b55d-29b103d7bec2\",\"loginName\":\"asdf@maximilianbraun.onmicrosoft.com\",\"secondaryText\":\"asdf@maximilianbraun.onmicrosoft.com\",\"primaryText\":\"asdf\"}]"
+  },
+  {
+    "fieldId": 1405,
+    "value": "2023-02-25T15:34:20"
+  },
+  {
+    "fieldId": 1406,
+    "value": ""
+  },
+  {
+    "fieldId": 1402,
+    "value": "Kein Toller Text"
+  }
+]
+
+Converting team AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA (5c9ba412-5a13-4fa4-b235-e926212815dd) using template 4889 and following metadata:
+[
+  {
+    "fieldId": 1403,
+    "value": "[{\"id\":\"9e7f8d2e-5c87-4750-b55d-29b103d7bec2\",\"loginName\":\"asdf@maximilianbraun.onmicrosoft.com\",\"secondaryText\":\"asdf@maximilianbraun.onmicrosoft.com\",\"primaryText\":\"asdf\"},{\"id\":\"8c4f1843-83a0-4bbc-b91a-e91e10e084b4\",\"loginName\":\"admin@maximilianbraun.onmicrosoft.com\",\"secondaryText\":\"admin@maximilianbraun.onmicrosoft.com\",\"primaryText\":\"Maximilian Braun\"}]"
+  },
+  {
+    "fieldId": 1410,
+    "value": "2020-01-29T15:34:20"
+  },
+  {
+    "fieldId": 1406,
+    "value": ""
+  },
+  {
+    "fieldId": 1402,
+    "value": "Toller Text"
+  }
+]
+

@@ -1,0 +1,416 @@
+[
+  {
+    "siteUrl": "https://example.com",
+    "picture": "https://example.com/image.png",
+    "membersStr": "John Doe, Jane Doe, Bob Smith",
+    "members": [
+      {
+        "key": "1",
+        "imageInitials": "JD",
+        "text": "John Doe",
+        "hasImage": true,
+        "imageAlt": "John Doe's Picture",
+        "personaName": "John Doe",
+        "membershipType": 1,
+        "msGraphUserId": "user-1"
+      },
+      {
+        "key": "2",
+        "imageInitials": "JD",
+        "text": "Jane Doe",
+        "hasImage": true,
+        "imageAlt": "Jane Doe's Picture",
+        "personaName": "Jane Doe",
+        "membershipType": 1,
+        "msGraphUserId": "user-2"
+      },
+      {
+        "key": "3",
+        "imageInitials": "BS",
+        "text": "Bob Smith",
+        "hasImage": true,
+        "imageAlt": "Bob Smith's Picture",
+        "personaName": "Bob Smith",
+        "membershipType": 1,
+        "msGraphUserId": "user-3"
+      }
+    ],
+    "totalMembers": 3,
+    "ownersStr": "Alice Johnson, Charlie Brown",
+    "totalOwners": 2,
+    "owners": [
+      {
+        "key": "4",
+        "imageInitials": "AJ",
+        "text": "Alice Johnson",
+        "hasImage": true,
+        "imageAlt": "Alice Johnson's Picture",
+        "personaName": "Alice Johnson",
+        "membershipType": 2,
+        "msGraphUserId": "owner-1"
+      },
+      {
+        "key": "5",
+        "imageInitials": "CB",
+        "text": "Charlie Brown",
+        "hasImage": true,
+        "imageAlt": "Charlie Brown's Picture",
+        "personaName": "Charlie Brown",
+        "membershipType": 2,
+        "msGraphUserId": "owner-2"
+      }
+    ],
+    "unseenCount": "5",
+    "enableDiscoverySettings": "true",
+    "defaultapp": "app1",
+    "filterstringkey1": "key1",
+    "filterstringvalue1": "value1",
+    "useapp1": "true",
+    "useapp2": "false",
+    "useapp2opturl": "",
+    "useapp3": "true",
+    "useapp4": "true",
+    "useapp5": "true",
+    "useapp5opturl": "https://example.com/opturl",
+    "useapp6": "false",
+    "useapp7": "true",
+    "useapp8": "false",
+    "useapp9": "true",
+    "linkkey1": "link1",
+    "linkvalue1": "https://example.com/link1",
+    "linkkey2": "link2",
+    "linkvalue2": "https://example.com/link2",
+    "linkkey3": "link3",
+    "linkvalue3": "https://example.com/link3",
+    "linkkey4": "link4",
+    "linkvalue4": "https://example.com/link4",
+    "linkkey5": "link5",
+    "linkvalue5": "https://example.com/link5",
+    "favourite": true,
+    "state": "active",
+    "archivingDate": "2024-12-31T00:00:00Z",
+    "lifecyclePolicy": {
+      "daysExtended": 30,
+      "title": "Extended Retention",
+      "description": "Policy for extended retention",
+      "listItemId": 100,
+      "policyType": {
+        "text": "Retention",
+        "key": "retention"
+      }
+    },
+    "templateName": "Template1",
+    "id": "2d02bdc1-58a8-4546-b567-af1693c7864c",
+    "title": "Example Group",
+    "titleLowerCase": "example group",
+    "description": "This is an example group description.",
+    "allowExternalSharing": "true",
+    "classification": "Confidential",
+    "visibility": "Private",
+    "createdDateTime": "2024-01-01T12:00:00Z",
+    "partitionKey": "partition1",
+    "groupActivity": {
+      "groupId": "2d02bdc1-58a8-4546-b567-af1693c7864c",
+      "reportRefreshDate": "2024-06-13T12:00:00Z",
+      "isDeleted": false,
+      "lastActivityDate": "2024-06-13T12:00:00Z",
+      "memberCount": 3,
+      "externalMemberCount": 0,
+      "reportPeriod": "30 days",
+      "daysInactive": 0
+    },
+    "_rid": "abc123",
+    "_self": "selfLink",
+    "_etag": "etagValue",
+    "_attachments": "attachmentsLink",
+    "_ts": 1597848391,
+    "templateNameLowerCase": "template1",
+    "dynamicMetadata": {
+      "ctId": "metadata1",
+      "updatedBy": "admin",
+      "fieldValues": [
+        {
+          "fieldName": "Field1",
+          "fieldType": "Text",
+          "values": ["Value1"]
+        }
+      ]
+    }
+  },
+  {
+    "siteUrl": "https://example.com",
+    "picture": "https://example.com/image.png",
+    "membersStr": "John Doe, Jane Doe, Bob Smith",
+    "members": [
+      {
+        "key": "1",
+        "imageInitials": "JD",
+        "text": "John Doe",
+        "hasImage": true,
+        "imageAlt": "John Doe's Picture",
+        "personaName": "John Doe",
+        "membershipType": 1,
+        "msGraphUserId": "user-1"
+      },
+      {
+        "key": "2",
+        "imageInitials": "JD",
+        "text": "Jane Doe",
+        "hasImage": true,
+        "imageAlt": "Jane Doe's Picture",
+        "personaName": "Jane Doe",
+        "membershipType": 1,
+        "msGraphUserId": "user-2"
+      },
+      {
+        "key": "3",
+        "imageInitials": "BS",
+        "text": "Bob Smith",
+        "hasImage": true,
+        "imageAlt": "Bob Smith's Picture",
+        "personaName": "Bob Smith",
+        "membershipType": 1,
+        "msGraphUserId": "user-3"
+      }
+    ],
+    "totalMembers": 3,
+    "ownersStr": "Alice Johnson, Charlie Brown",
+    "totalOwners": 2,
+    "owners": [
+      {
+        "key": "4",
+        "imageInitials": "AJ",
+        "text": "Alice Johnson",
+        "hasImage": true,
+        "imageAlt": "Alice Johnson's Picture",
+        "personaName": "Alice Johnson",
+        "membershipType": 2,
+        "msGraphUserId": "owner-1"
+      },
+      {
+        "key": "5",
+        "imageInitials": "CB",
+        "text": "Charlie Brown",
+        "hasImage": true,
+        "imageAlt": "Charlie Brown's Picture",
+        "personaName": "Charlie Brown",
+        "membershipType": 2,
+        "msGraphUserId": "owner-2"
+      }
+    ],
+    "unseenCount": "5",
+    "enableDiscoverySettings": "true",
+    "defaultapp": "app1",
+    "filterstringkey1": "key1",
+    "filterstringvalue1": "value1",
+    "useapp1": "true",
+    "useapp2": "false",
+    "useapp2opturl": "",
+    "useapp3": "true",
+    "useapp4": "true",
+    "useapp5": "true",
+    "useapp5opturl": "https://example.com/opturl",
+    "useapp6": "false",
+    "useapp7": "true",
+    "useapp8": "false",
+    "useapp9": "true",
+    "linkkey1": "link1",
+    "linkvalue1": "https://example.com/link1",
+    "linkkey2": "link2",
+    "linkvalue2": "https://example.com/link2",
+    "linkkey3": "link3",
+    "linkvalue3": "https://example.com/link3",
+    "linkkey4": "link4",
+    "linkvalue4": "https://example.com/link4",
+    "linkkey5": "link5",
+    "linkvalue5": "https://example.com/link5",
+    "favourite": true,
+    "state": "active",
+    "archivingDate": "2024-12-31T00:00:00Z",
+    "lifecyclePolicy": {
+      "daysExtended": 30,
+      "title": "Extended Retention",
+      "description": "Policy for extended retention",
+      "listItemId": 100,
+      "policyType": {
+        "text": "Retention",
+        "key": "retention"
+      }
+    },
+    "templateName": "Template1",
+    "id": "group2",
+    "title": "Example Group 1",
+    "titleLowerCase": "example group",
+    "description": "This is an example group description.",
+    "allowExternalSharing": "true",
+    "classification": "Confidential",
+    "visibility": "Private",
+    "createdDateTime": "2024-01-01T12:00:00Z",
+    "partitionKey": "partition1",
+    "groupActivity": {
+      "groupId": "group1",
+      "reportRefreshDate": "2024-06-13T12:00:00Z",
+      "isDeleted": false,
+      "lastActivityDate": "2024-06-13T12:00:00Z",
+      "memberCount": 3,
+      "externalMemberCount": 0,
+      "reportPeriod": "30 days",
+      "daysInactive": 0
+    },
+    "_rid": "abc123",
+    "_self": "selfLink",
+    "_etag": "etagValue",
+    "_attachments": "attachmentsLink",
+    "_ts": 1597848391,
+    "templateNameLowerCase": "template1",
+    "dynamicMetadata": {
+      "ctId": "metadata1",
+      "updatedBy": "admin",
+      "fieldValues": [
+        {
+          "fieldName": "Field1",
+          "fieldType": "Text",
+          "values": ["Value1"]
+        }
+      ]
+    }
+  },
+  {
+    "siteUrl": "https://example.com",
+    "picture": "https://example.com/image.png",
+    "membersStr": "John Doe, Jane Doe, Bob Smith",
+    "members": [
+      {
+        "key": "1",
+        "imageInitials": "JD",
+        "text": "John Doe",
+        "hasImage": true,
+        "imageAlt": "John Doe's Picture",
+        "personaName": "John Doe",
+        "membershipType": 1,
+        "msGraphUserId": "user-1"
+      },
+      {
+        "key": "2",
+        "imageInitials": "JD",
+        "text": "Jane Doe",
+        "hasImage": true,
+        "imageAlt": "Jane Doe's Picture",
+        "personaName": "Jane Doe",
+        "membershipType": 1,
+        "msGraphUserId": "user-2"
+      },
+      {
+        "key": "3",
+        "imageInitials": "BS",
+        "text": "Bob Smith",
+        "hasImage": true,
+        "imageAlt": "Bob Smith's Picture",
+        "personaName": "Bob Smith",
+        "membershipType": 1,
+        "msGraphUserId": "user-3"
+      }
+    ],
+    "totalMembers": 3,
+    "ownersStr": "Alice Johnson, Charlie Brown",
+    "totalOwners": 2,
+    "owners": [
+      {
+        "key": "4",
+        "imageInitials": "AJ",
+        "text": "Alice Johnson",
+        "hasImage": true,
+        "imageAlt": "Alice Johnson's Picture",
+        "personaName": "Alice Johnson",
+        "membershipType": 2,
+        "msGraphUserId": "owner-1"
+      },
+      {
+        "key": "5",
+        "imageInitials": "CB",
+        "text": "Charlie Brown",
+        "hasImage": true,
+        "imageAlt": "Charlie Brown's Picture",
+        "personaName": "Charlie Brown",
+        "membershipType": 2,
+        "msGraphUserId": "owner-2"
+      }
+    ],
+    "unseenCount": "5",
+    "enableDiscoverySettings": "true",
+    "defaultapp": "app1",
+    "filterstringkey1": "key1",
+    "filterstringvalue1": "value1",
+    "useapp1": "true",
+    "useapp2": "false",
+    "useapp2opturl": "",
+    "useapp3": "true",
+    "useapp4": "true",
+    "useapp5": "true",
+    "useapp5opturl": "https://example.com/opturl",
+    "useapp6": "false",
+    "useapp7": "true",
+    "useapp8": "false",
+    "useapp9": "true",
+    "linkkey1": "link1",
+    "linkvalue1": "https://example.com/link1",
+    "linkkey2": "link2",
+    "linkvalue2": "https://example.com/link2",
+    "linkkey3": "link3",
+    "linkvalue3": "https://example.com/link3",
+    "linkkey4": "link4",
+    "linkvalue4": "https://example.com/link4",
+    "linkkey5": "link5",
+    "linkvalue5": "https://example.com/link5",
+    "favourite": true,
+    "state": "active",
+    "archivingDate": "2024-12-31T00:00:00Z",
+    "lifecyclePolicy": {
+      "daysExtended": 30,
+      "title": "Extended Retention",
+      "description": "Policy for extended retention",
+      "listItemId": 100,
+      "policyType": {
+        "text": "Retention",
+        "key": "retention"
+      }
+    },
+    "templateName": "Template1",
+    "id": "b798abc8-16f3-4b87-a7dd-a82056f64fa2",
+    "title": "Test Group",
+    "titleLowerCase": "test group",
+    "description": "This is an example group description.",
+    "allowExternalSharing": "true",
+    "classification": "Confidential",
+    "visibility": "Private",
+    "createdDateTime": "2024-01-01T12:00:00Z",
+    "partitionKey": "partition1",
+    "groupActivity": {
+      "groupId": "b798abc8-16f3-4b87-a7dd-a82056f64fa2",
+      "reportRefreshDate": "2024-06-13T12:00:00Z",
+      "isDeleted": false,
+      "lastActivityDate": "2024-06-13T12:00:00Z",
+      "memberCount": 3,
+      "externalMemberCount": 0,
+      "reportPeriod": "30 days",
+      "daysInactive": 0
+    },
+    "_rid": "abc123",
+    "_self": "selfLink",
+    "_etag": "etagValue",
+    "_attachments": "attachmentsLink",
+    "_ts": 1597848391,
+    "templateNameLowerCase": "template1",
+    "dynamicMetadata": {
+      "ctId": "metadata1",
+      "updatedBy": "admin",
+      "fieldValues": [
+        {
+          "fieldName": "Example Field",
+          "fieldType": "Text",
+          "values": ["Value1"]
+        }
+      ]
+    }
+  }
+]

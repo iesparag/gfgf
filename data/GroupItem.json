@@ -1,0 +1,3493 @@
+[
+  {
+    "title": "Developers",
+    "id": "304948dc-451c-4e01-962a-6417e5dda529"
+  },
+  { "title": "Cool", "id": "99392ead-8b2d-4687-92e8-f54fd9a6ce3a" },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "5c9ba412-5a13-4fa4-b235-e926212815dd",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=5c9ba412-5a13-4fa4-b235-e926212815dd&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "MailNickname": null,
+    "Description": "asdf",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "Person1",
+          "fieldType": "User",
+          "values": [
+            "asdf@maximilianbraun.onmicrosoft.com",
+            "admin@maximilianbraun.onmicrosoft.com"
+          ]
+        },
+        {
+          "fieldName": "Date1",
+          "fieldType": "DateTime",
+          "values": ["2020-01-29T15:34:20"]
+        },
+        {
+          "fieldName": "Dropdown1",
+          "fieldType": "Choice",
+          "values": null
+        },
+        {
+          "fieldName": "Text1",
+          "fieldType": "Text",
+          "values": ["Toller Text"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "e5d96117-2912-4de8-8ebe-aee9e1298b43",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=e5d96117-2912-4de8-8ebe-aee9e1298b43&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "afreref",
+    "MailNickname": null,
+    "Description": "fewafweefw",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "1Person",
+          "fieldType": "User",
+          "values": ["asdf@maximilianbraun.onmicrosoft.com"]
+        },
+        {
+          "fieldName": "1Date",
+          "fieldType": "DateTime",
+          "values": ["2023-02-25T15:34:20"]
+        },
+        {
+          "fieldName": "1Dropdown",
+          "fieldType": "Choice",
+          "values": null
+        },
+        {
+          "fieldName": "1Text",
+          "fieldType": "Text",
+          "values": ["Kein Toller Text"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "4305aaa5-1960-4b7f-a74e-f397f958b2d3",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=4305aaa5-1960-4b7f-a74e-f397f958b2d3&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "asdfaaaaaaaaa",
+    "MailNickname": null,
+    "Description": "aaaaaaaaa",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "1Person",
+          "fieldType": "User",
+          "values": ["asdf@maximilianbraun.onmicrosoft.com"]
+        },
+        {
+          "fieldName": "1Date",
+          "fieldType": "DateTime",
+          "values": ["2023-02-25T15:34:20"]
+        },
+        {
+          "fieldName": "1Dropdown",
+          "fieldType": "Choice",
+          "values": null
+        },
+        {
+          "fieldName": "1Text",
+          "fieldType": "Text",
+          "values": ["Kein Toller Text"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "cdf53e9b-2b10-431e-9008-11ca7834743f",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=cdf53e9b-2b10-431e-9008-11ca7834743f&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "asdfcool",
+    "MailNickname": null,
+    "Description": "asdf",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "Person1",
+          "fieldType": "User",
+          "values": [
+            "asdf@maximilianbraun.onmicrosoft.com",
+            "admin@maximilianbraun.onmicrosoft.com"
+          ]
+        },
+        {
+          "fieldName": "Date1",
+          "fieldType": "DateTime",
+          "values": ["2020-01-29T15:34:20"]
+        },
+        {
+          "fieldName": "Dropdown1",
+          "fieldType": "Choice",
+          "values": null
+        },
+        {
+          "fieldName": "Text1",
+          "fieldType": "Text",
+          "values": ["Toller Text"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "46f84215-ad7b-4978-87de-a4185b8ca988",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=46f84215-ad7b-4978-87de-a4185b8ca988&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "asdfff",
+    "MailNickname": null,
+    "Description": "asdf",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectPPL",
+          "fieldType": "User",
+          "values": [
+            "admin@maximilianbraun.onmicrosoft.com",
+            "asdf@maximilianbraun.onmicrosoft.com"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "b5a9c25c-af69-48fb-88aa-bc3d8083f5ec",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=b5a9c25c-af69-48fb-88aa-bc3d8083f5ec&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "asdffff",
+    "MailNickname": null,
+    "Description": "asdf",
+    "Visibility": null,
+    "CreatedAt": null
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "dcad0599-a691-4d2c-9482-40e0b32e376f",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=dcad0599-a691-4d2c-9482-40e0b32e376f&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "asdffffff",
+    "MailNickname": null,
+    "Description": "asdffffff",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "430d443e-f725-4132-8271-ec0c4d622595",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=430d443e-f725-4132-8271-ec0c4d622595&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "asdfjjjjjj",
+    "MailNickname": null,
+    "Description": "jjjjjj",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "73420194-dfd0-4fed-bd6e-96ec1985ee34",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=73420194-dfd0-4fed-bd6e-96ec1985ee34&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Cedas",
+    "MailNickname": null,
+    "Description": "asdf",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "f4f0c4d5-cc8d-4558-98aa-5a3e68506fb1",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=f4f0c4d5-cc8d-4558-98aa-5a3e68506fb1&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "cedas2",
+    "MailNickname": null,
+    "Description": "cedas2",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "75a50cbe-42fe-44f4-8ca1-29090acc893d",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=75a50cbe-42fe-44f4-8ca1-29090acc893d&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Chris_ffewafewafff",
+    "MailNickname": null,
+    "Description": "ffewafewafff",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "a63f88d0-3463-40d2-92e7-cf7f40ad2753",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=a63f88d0-3463-40d2-92e7-cf7f40ad2753&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Christopf_",
+    "MailNickname": null,
+    "Description": "EinTeamErstellen",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "8b29da78-c66f-4cd4-864f-58a56cbe04bf",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=8b29da78-c66f-4cd4-864f-58a56cbe04bf&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Christopf_afdsf",
+    "MailNickname": null,
+    "Description": "asdfasdf",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "f83ae18b-9305-4c35-8f8d-29f7c013d9fb",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=f83ae18b-9305-4c35-8f8d-29f7c013d9fb&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Christopf_afweew",
+    "MailNickname": null,
+    "Description": "aefwfe",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "53c8fb77-d180-4217-9575-05b7384856a6",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=53c8fb77-d180-4217-9575-05b7384856a6&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Christopf_asdf",
+    "MailNickname": null,
+    "Description": "asdf",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "46ea6dca-9a3a-4db8-9fea-e9d0438ffa89",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=46ea6dca-9a3a-4db8-9fea-e9d0438ffa89&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Christopf_ffff",
+    "MailNickname": null,
+    "Description": "ffff",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "8ee7472c-2848-4f7c-aa50-b805d717e082",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=8ee7472c-2848-4f7c-aa50-b805d717e082&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Christopf_TollerName",
+    "MailNickname": null,
+    "Description": "CHRISTOPF",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "dff009f4-4413-46e8-b1f8-e2fb6241c7e8",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=dff009f4-4413-46e8-b1f8-e2fb6241c7e8&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Christopf_Weiter",
+    "MailNickname": null,
+    "Description": "Weiter",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "136cf885-8215-4612-a363-1e78042a83a5",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=136cf885-8215-4612-a363-1e78042a83a5&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Christopf-aiueghfilhawfehiluahwfe",
+    "MailNickname": null,
+    "Description": "aliefhbuahwlifuhailuwe",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "df35360b-84a7-425f-9f40-1718f2df4e5d",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=df35360b-84a7-425f-9f40-1718f2df4e5d&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Christopf-wefewfaewfa",
+    "MailNickname": null,
+    "Description": "fewawefawef",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "3973828c-bc77-43cb-a038-a4c4c859d14c",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=3973828c-bc77-43cb-a038-a4c4c859d14c&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Dev ASDF",
+    "MailNickname": null,
+    "Description": "asdf",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "69ea7895-23ee-4cba-a35b-3247a080a367",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=69ea7895-23ee-4cba-a35b-3247a080a367&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Dev Cool",
+    "MailNickname": null,
+    "Description": "asdf",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "e8f98b98-ab89-4bf4-bcff-f62a3e52ef95",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=e8f98b98-ab89-4bf4-bcff-f62a3e52ef95&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Dev CoolTeam",
+    "MailNickname": null,
+    "Description": "CoolTeam",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "2df49de7-1cb1-4c66-828a-eebd45a2d99a",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=2df49de7-1cb1-4c66-828a-eebd45a2d99a&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Dev CoolTeamToBeApproved",
+    "MailNickname": null,
+    "Description": "CoolTeamToBeApproved",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "393df2cf-4862-41f7-9ae4-64cad9feae4c",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=393df2cf-4862-41f7-9ae4-64cad9feae4c&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Dev fewafawfe",
+    "MailNickname": null,
+    "Description": "fewafawfe",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "a5524d17-41f7-423b-9395-ad85e45caf67",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=a5524d17-41f7-423b-9395-ad85e45caf67&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Dev ftgaewrg",
+    "MailNickname": null,
+    "Description": "ftgaewrg",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "93b6e8fa-7f27-4f84-a881-2a9e96d29207",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=93b6e8fa-7f27-4f84-a881-2a9e96d29207&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Dev fwaefawef",
+    "MailNickname": null,
+    "Description": "fwaefawef",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "64688a79-45d6-4712-9610-788a96347173",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=64688a79-45d6-4712-9610-788a96347173&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Dev gawegawe",
+    "MailNickname": null,
+    "Description": "gawegawe",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "63c29ea4-45e9-44d7-bf5c-e14d64e94c18",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=63c29ea4-45e9-44d7-bf5c-e14d64e94c18&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Dev MyCoolTeam",
+    "MailNickname": null,
+    "Description": "MyCoolTeam",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "acd2c5e7-74c2-46f5-addc-1b637ef75163",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=acd2c5e7-74c2-46f5-addc-1b637ef75163&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Dev oöiwfajje",
+    "MailNickname": null,
+    "Description": "oöiwfajje",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "40c89a11-874e-451a-a133-74260f68b6ce",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=40c89a11-874e-451a-a133-74260f68b6ce&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Dev SuperCoolTeam",
+    "MailNickname": null,
+    "Description": "SuperCoolTeam",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "ab3776d4-5cb4-4030-94b7-b394eedd4f62",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=ab3776d4-5cb4-4030-94b7-b394eedd4f62&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Dev thstgr",
+    "MailNickname": null,
+    "Description": "thstgr",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "87b70a79-5c07-491d-b77b-90aea269355c",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=87b70a79-5c07-491d-b77b-90aea269355c&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Dev trsggaerg",
+    "MailNickname": null,
+    "Description": "trsggaerg",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "59b69bdf-bc6a-4738-b5bd-355bb998cad1",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=59b69bdf-bc6a-4738-b5bd-355bb998cad1&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Dev wefafe",
+    "MailNickname": null,
+    "Description": "wefafe",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "d6d5f969-dea1-4b19-9434-1f6dd19375cc",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=d6d5f969-dea1-4b19-9434-1f6dd19375cc&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "DHP-333333",
+    "MailNickname": null,
+    "Description": "DHP-333333\n",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "0520d03c-61a8-4f49-b43c-2556d1a32486",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=0520d03c-61a8-4f49-b43c-2556d1a32486&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "feewfawefwa",
+    "MailNickname": null,
+    "Description": "awefaewfawef",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "af869beb-4548-48da-9617-fa795f12faf5",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=af869beb-4548-48da-9617-fa795f12faf5&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "gawegawef",
+    "MailNickname": null,
+    "Description": "gawegawef",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "ef09a2ec-3bc9-41c8-b62e-a95e95a9359e",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=ef09a2ec-3bc9-41c8-b62e-a95e95a9359e&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "lmao",
+    "MailNickname": null,
+    "Description": "lmao",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "89e16020-336c-4a24-8c13-c222e1661d38",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=89e16020-336c-4a24-8c13-c222e1661d38&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "MailNickNameBug",
+    "MailNickname": null,
+    "Description": "MailNickNameBug",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "ef3bdeed-c16d-4912-9859-d139ff78a3c5",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=ef3bdeed-c16d-4912-9859-d139ff78a3c5&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "MailNickNameBug | grager",
+    "MailNickname": null,
+    "Description": "asdf",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "910ec00f-415d-4c6d-b996-f2f395b5e215",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=910ec00f-415d-4c6d-b996-f2f395b5e215&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "maximilianbraun",
+    "MailNickname": null,
+    "Description": "maximilianbraun",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "229ba17b-6e71-4db9-8d2b-c12994c6d7da",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=229ba17b-6e71-4db9-8d2b-c12994c6d7da&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "MyCoolTemplate",
+    "MailNickname": null,
+    "Description": "MyCoolTemplate",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "8fdb424c-6dbd-43e2-a4cb-7574de432d30",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=8fdb424c-6dbd-43e2-a4cb-7574de432d30&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "New Test Team",
+    "MailNickname": null,
+    "Description": "asdf",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "b76ebbc5-357e-49da-9d21-38a8026c64a9",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=b76ebbc5-357e-49da-9d21-38a8026c64a9&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "qawefawf",
+    "MailNickname": null,
+    "Description": "qawefawf",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "dff307be-d08a-468f-b5d6-04fc20e39e74",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=dff307be-d08a-468f-b5d6-04fc20e39e74&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "sadf",
+    "MailNickname": null,
+    "Description": "asdf",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "25ba7851-0dd6-4a52-ab81-ae7b9dff0eb2",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=25ba7851-0dd6-4a52-ab81-ae7b9dff0eb2&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "tagwegfa",
+    "MailNickname": null,
+    "Description": "tagwegfa",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "b7868a4b-dcdc-47bd-877c-bdb88006ceed",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=b7868a4b-dcdc-47bd-877c-bdb88006ceed&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "test",
+    "MailNickname": null,
+    "Description": "asdf",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "60cff776-7e65-4c48-a901-a9d0581b5814",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=60cff776-7e65-4c48-a901-a9d0581b5814&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "uawhefoewahoif",
+    "MailNickname": null,
+    "Description": "auwefhjoöiawef",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "b4007e43-7484-48b5-9fef-cf238f0662fc",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=b4007e43-7484-48b5-9fef-cf238f0662fc&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "98awef964a9wef49a4we98f",
+    "MailNickname": null,
+    "Description": "98awef964a9wef49a4we98f",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "faaae617-54e9-48d7-84e8-ffd54bb5edbb",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=faaae617-54e9-48d7-84e8-ffd54bb5edbb&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "a86wef698a4w6ef46ef",
+    "MailNickname": null,
+    "Description": "a86wef698a4w6ef46ef",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "a9bb9e56-68a8-458e-aa1e-f9d0cce8ff57",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=a9bb9e56-68a8-458e-aa1e-f9d0cce8ff57&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "hgaegawg",
+    "MailNickname": null,
+    "Description": "agwe",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "61f2603f-6d5f-4069-ac3e-fd445062ba70",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=61f2603f-6d5f-4069-ac3e-fd445062ba70&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "KeineAhnungBruder",
+    "MailNickname": null,
+    "Description": "KeineAhnungBruder",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "dc7824fd-c4bb-451f-bc98-8636882316c9",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=dc7824fd-c4bb-451f-bc98-8636882316c9&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "ManuelBluemlein",
+    "MailNickname": null,
+    "Description": "ManuelBluemlein",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "4f35aeb7-2496-43df-94c5-694d1426ee9e",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=4f35aeb7-2496-43df-94c5-694d1426ee9e&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Manuel-NOV03",
+    "MailNickname": null,
+    "Description": "Manuel-NOV03",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "aa9be635-d38d-493a-9a07-906a681f4325",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=aa9be635-d38d-493a-9a07-906a681f4325&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "Max-NOV3",
+    "MailNickname": null,
+    "Description": "Max-NOV3",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "1223756a-76fb-4d7d-a343-7f989c70081d",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=1223756a-76fb-4d7d-a343-7f989c70081d&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "MeineSuperKuhleVorlage",
+    "MailNickname": null,
+    "Description": "MeineSuperKuhleVorlage",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "fc103341-e02d-4761-9e3f-259a5a3c837e",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=fc103341-e02d-4761-9e3f-259a5a3c837e&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "OÖFHELOÖUHOÖFEHOÖWHFÖOIEWHÖO",
+    "MailNickname": null,
+    "Description": "a",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "3f1b49b6-cd67-4fab-a3e6-d566f4f07d4e",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=3f1b49b6-cd67-4fab-a3e6-d566f4f07d4e&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "SuperDuperCool",
+    "MailNickname": null,
+    "Description": "SuperDuperCool",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "adf506a0-1e61-486e-8821-d52bbf13d4d8",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=adf506a0-1e61-486e-8821-d52bbf13d4d8&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "thagrawegegawgwagew",
+    "MailNickname": null,
+    "Description": "thagrawegegawgwagew",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "544358c9-ab85-492f-90ef-777bf1f512b0",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=544358c9-ab85-492f-90ef-777bf1f512b0&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "TM Webhook Secret test",
+    "MailNickname": null,
+    "Description": "asdf",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "MembersCount": 0,
+    "Blacklisted": false,
+    "AssignedLabel": null,
+    "id": "0bb5ee73-5609-4e6f-9420-efe7dccd1c7e",
+    "TeamUrl": "https://teams.microsoft.com/l/team/thread.skype/conversations?groupId=0bb5ee73-5609-4e6f-9420-efe7dccd1c7e&tenantId=0df299cf-947d-451c-bfc8-5228be2b6ed8",
+    "SharePointUrl": null,
+    "IconUrl": null,
+    "title": "TypeNotRequired",
+    "MailNickname": null,
+    "Description": "TypeNotRequired",
+    "Visibility": null,
+    "CreatedAt": null,
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    }
+  },
+  {
+    "siteUrl": "https://yatri.sharepoint.com/sites/pr-HUGBackereiIncidentManagement",
+    "picture": "https://yatri.sharepoint.com/sites/teamworkadmin/TeamworkGraphImagesCache/Groups/852ec58d-a489-4f89-802c-7962f1c45e74.png",
+    "membersStr": "[{\"key\":\"daniel.schnyder@yatri.ch\",\"imageInitials\":\"DS\",\"text\":\"Daniel Schnyder\",\"hasImage\":true,\"imageAlt\":\"Daniel Schnyder\",\"personaName\":\"Daniel Schnyder\",\"membershipType\":2,\"msGraphUserId\":\"0450d426-a3fe-4eea-be7a-5533cf7f7944\"},{\"key\":\"bot@yatri.ch\",\"imageInitials\":\"BY\",\"text\":\"Bot Yatri\",\"hasImage\":false,\"imageAlt\":\"Bot Yatri\",\"personaName\":\"Bot Yatri\",\"membershipType\":2,\"msGraphUserId\":\"53281055-07ec-4355-9174-01282d90ca9a\"},{\"key\":\"jean-pierre.cattin@yatri.ch\",\"imageInitials\":\"JC\",\"text\":\"Jean-Pierre Cattin\",\"hasImage\":true,\"imageAlt\":\"Jean-Pierre Cattin\",\"personaName\":\"Jean-Pierre Cattin\",\"membershipType\":2,\"msGraphUserId\":\"b02cc7d7-d517-491d-9cf2-ac68d475a179\"}]",
+    "members": [
+      {
+        "key": "daniel.schnyder@yatri.ch",
+        "imageInitials": "DS",
+        "text": "Daniel Schnyder",
+        "hasImage": true,
+        "imageAlt": "Daniel Schnyder",
+        "personaName": "Daniel Schnyder",
+        "membershipType": 2,
+        "msGraphUserId": "0450d426-a3fe-4eea-be7a-5533cf7f7944"
+      },
+      {
+        "key": "bot@yatri.ch",
+        "imageInitials": "BY",
+        "text": "Bot Yatri",
+        "hasImage": false,
+        "imageAlt": "Bot Yatri",
+        "personaName": "Bot Yatri",
+        "membershipType": 2,
+        "msGraphUserId": "53281055-07ec-4355-9174-01282d90ca9a"
+      },
+      {
+        "key": "jean-pierre.cattin@yatri.ch",
+        "imageInitials": "JC",
+        "text": "Jean-Pierre Cattin",
+        "hasImage": true,
+        "imageAlt": "Jean-Pierre Cattin",
+        "personaName": "Jean-Pierre Cattin",
+        "membershipType": 2,
+        "msGraphUserId": "b02cc7d7-d517-491d-9cf2-ac68d475a179"
+      }
+    ],
+    "totalMembers": 3,
+    "ownersStr": "[{\"key\":\"daniel.schnyder@yatri.ch\",\"imageInitials\":\"DS\",\"text\":\"Daniel Schnyder\",\"hasImage\":true,\"imageAlt\":\"Daniel Schnyder\",\"personaName\":\"Daniel Schnyder\",\"membershipType\":1,\"msGraphUserId\":\"0450d426-a3fe-4eea-be7a-5533cf7f7944\"},{\"key\":\"bot@yatri.ch\",\"imageInitials\":\"BY\",\"text\":\"Bot Yatri\",\"hasImage\":false,\"imageAlt\":\"Bot Yatri\",\"personaName\":\"Bot Yatri\",\"membershipType\":1,\"msGraphUserId\":\"53281055-07ec-4355-9174-01282d90ca9a\"},{\"key\":\"jean-pierre.cattin@yatri.ch\",\"imageInitials\":\"JC\",\"text\":\"Jean-Pierre Cattin\",\"hasImage\":true,\"imageAlt\":\"Jean-Pierre Cattin\",\"personaName\":\"Jean-Pierre Cattin\",\"membershipType\":1,\"msGraphUserId\":\"b02cc7d7-d517-491d-9cf2-ac68d475a179\"}]",
+    "totalOwners": 3,
+    "owners": [
+      {
+        "key": "daniel.schnyder@yatri.ch",
+        "imageInitials": "DS",
+        "text": "Daniel Schnyder",
+        "hasImage": true,
+        "imageAlt": "Daniel Schnyder",
+        "personaName": "Daniel Schnyder",
+        "membershipType": 1,
+        "msGraphUserId": "0450d426-a3fe-4eea-be7a-5533cf7f7944"
+      },
+      {
+        "key": "bot@yatri.ch",
+        "imageInitials": "BY",
+        "text": "Bot Yatri",
+        "hasImage": false,
+        "imageAlt": "Bot Yatri",
+        "personaName": "Bot Yatri",
+        "membershipType": 1,
+        "msGraphUserId": "53281055-07ec-4355-9174-01282d90ca9a"
+      },
+      {
+        "key": "jean-pierre.cattin@yatri.ch",
+        "imageInitials": "JC",
+        "text": "Jean-Pierre Cattin",
+        "hasImage": true,
+        "imageAlt": "Jean-Pierre Cattin",
+        "personaName": "Jean-Pierre Cattin",
+        "membershipType": 1,
+        "msGraphUserId": "b02cc7d7-d517-491d-9cf2-ac68d475a179"
+      }
+    ],
+    "unseenCount": "0",
+    "enableDiscoverySettings": "True",
+    "defaultapp": "useapp2",
+    "filterstringkey1": "ValoTeamworkType",
+    "filterstringvalue1": "GroupTemplate_Projekt mit MS Teams",
+    "useapp1": "true",
+    "useapp2": "true",
+    "useapp2opturl": "",
+    "useapp3": "true",
+    "useapp4": "true",
+    "useapp5": "false",
+    "useapp5opturl": "",
+    "useapp6": "true",
+    "useapp7": "false",
+    "useapp8": "false",
+    "useapp9": "false",
+    "linkkey1": "",
+    "linkvalue1": "",
+    "linkkey2": "",
+    "linkvalue2": "",
+    "linkkey3": "",
+    "linkvalue3": "",
+    "linkkey4": "",
+    "linkvalue4": "",
+    "linkkey5": "",
+    "linkvalue5": "",
+    "favourite": false,
+    "lifecyclePolicy": {
+      "daysExtended": null,
+      "title": "Archivieren 1 Jahr nach Erstellung",
+      "description": null,
+      "listItemId": 2,
+      "policyType": {
+        "text": "Lebenszyklusrichtlinie",
+        "key": "Lifecycle"
+      }
+    },
+    "templateName": "#Std Projekt [Microsoft Teams]",
+    "templateNameLowerCase": "#std projekt [microsoft teams]",
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": "4f92e100-4a64-4419-912a-ae0b1b2eedf0",
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Ok"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": null
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    },
+    "id": "852ec58d-a489-4f89-802c-7962f1c45e74",
+    "title": "PR-HUG Bäckerei Incident Management",
+    "titleLowerCase": "pr-hug bäckerei incident management",
+    "description": "HUG Bäckerei Incident Management",
+    "allowExternalSharing": "true",
+    "classification": "",
+    "visibility": "Public",
+    "createdDateTime": "2023-03-06T12:53:07",
+    "partitionKey": "Group",
+    "groupActivity": {
+      "groupId": "852ec58d-a489-4f89-802c-7962f1c45e74",
+      "reportRefreshDate": null,
+      "isDeleted": false,
+      "lastActivityDate": null,
+      "memberCount": null,
+      "externalMemberCount": null,
+      "reportPeriod": null,
+      "daysInactive": null
+    },
+    "_rid": "PrBdANRQnCU6AgAAAAAAAA==",
+    "_self": "dbs/PrBdAA==/colls/PrBdANRQnCU=/docs/PrBdANRQnCU6AgAAAAAAAA==/",
+    "_etag": "\"1300573f-0000-0d00-0000-648083600000\"",
+    "_attachments": "attachments/",
+    "_ts": 1686143840
+  },
+  {
+    "siteUrl": "https://yatri.sharepoint.com/sites/pr-einfhrungerp",
+    "picture": "https://yatri.sharepoint.com/sites/teamworkadmin/TeamworkGraphImagesCache/Groups/ad5fc19e-7621-4cd3-a16e-85fbd8675048.png",
+    "membersStr": "[{\"key\":\"daniel.schnyder@yatri.ch\",\"imageInitials\":\"DS\",\"text\":\"Daniel Schnyder\",\"hasImage\":true,\"imageAlt\":\"Daniel Schnyder\",\"personaName\":\"Daniel Schnyder\",\"membershipType\":2,\"msGraphUserId\":\"0450d426-a3fe-4eea-be7a-5533cf7f7944\"},{\"key\":\"lukas@yatri.ch\",\"imageInitials\":\"LM\",\"text\":\"Lukas Müller\",\"hasImage\":true,\"imageAlt\":\"Lukas Müller\",\"personaName\":\"Lukas Müller\",\"membershipType\":2,\"msGraphUserId\":\"b118b1f2-e35a-4ac8-a11f-55e4ec10f7fb\"},{\"key\":\"raphael.frei@yatri.ch\",\"imageInitials\":\"RF\",\"text\":\"Raphael Frei\",\"hasImage\":true,\"imageAlt\":\"Raphael Frei\",\"personaName\":\"Raphael Frei\",\"membershipType\":2,\"msGraphUserId\":\"7b42cf51-8033-4c68-b34d-e16ed9a876da\"}]",
+    "members": [
+      {
+        "key": "daniel.schnyder@yatri.ch",
+        "imageInitials": "DS",
+        "text": "Daniel Schnyder",
+        "hasImage": true,
+        "imageAlt": "Daniel Schnyder",
+        "personaName": "Daniel Schnyder",
+        "membershipType": 2,
+        "msGraphUserId": "0450d426-a3fe-4eea-be7a-5533cf7f7944"
+      },
+      {
+        "key": "lukas@yatri.ch",
+        "imageInitials": "LM",
+        "text": "Lukas Müller",
+        "hasImage": true,
+        "imageAlt": "Lukas Müller",
+        "personaName": "Lukas Müller",
+        "membershipType": 2,
+        "msGraphUserId": "b118b1f2-e35a-4ac8-a11f-55e4ec10f7fb"
+      },
+      {
+        "key": "raphael.frei@yatri.ch",
+        "imageInitials": "RF",
+        "text": "Raphael Frei",
+        "hasImage": true,
+        "imageAlt": "Raphael Frei",
+        "personaName": "Raphael Frei",
+        "membershipType": 2,
+        "msGraphUserId": "7b42cf51-8033-4c68-b34d-e16ed9a876da"
+      },
+      {
+        "key": "bot@yatri.ch",
+        "imageInitials": "BY",
+        "text": "Bot Yatri",
+        "hasImage": false,
+        "imageAlt": "Bot Yatri",
+        "personaName": "Bot Yatri",
+        "membershipType": 2,
+        "msGraphUserId": "53281055-07ec-4355-9174-01282d90ca9a"
+      },
+      {
+        "key": "sandro.klaentschi@yatri.ch",
+        "imageInitials": "SK",
+        "text": "Sandro Kläntschi",
+        "hasImage": true,
+        "imageAlt": "Sandro Kläntschi",
+        "personaName": "Sandro Kläntschi",
+        "membershipType": 2,
+        "msGraphUserId": "cff7d23b-9b29-494d-b261-62fc6e5bf67e"
+      },
+      {
+        "key": "vanessa.becker@yatri.ch",
+        "imageInitials": "VB",
+        "text": "Vanessa Becker",
+        "hasImage": true,
+        "imageAlt": "Vanessa Becker",
+        "personaName": "Vanessa Becker",
+        "membershipType": 2,
+        "msGraphUserId": "64268ae1-fa8d-4420-a8bb-89c882649eba"
+      },
+      {
+        "key": "priska.scherrer@yatri.ch",
+        "imageInitials": "PS",
+        "text": "Priska Scherrer",
+        "hasImage": true,
+        "imageAlt": "Priska Scherrer",
+        "personaName": "Priska Scherrer",
+        "membershipType": 2,
+        "msGraphUserId": "30f48cfd-e613-4355-8441-17ffcbaff4e6"
+      },
+      {
+        "key": "mario.niederhauser@yatri.ch",
+        "imageInitials": "MN",
+        "text": "Mario Niederhauser",
+        "hasImage": true,
+        "imageAlt": "Mario Niederhauser",
+        "personaName": "Mario Niederhauser",
+        "membershipType": 2,
+        "msGraphUserId": "d21a6903-15c9-41ad-be23-09b270954a2b"
+      },
+      {
+        "key": "timo.feller@yatri.ch",
+        "imageInitials": "TF",
+        "text": "Timo Feller",
+        "hasImage": true,
+        "imageAlt": "Timo Feller",
+        "personaName": "Timo Feller",
+        "membershipType": 2,
+        "msGraphUserId": "f065cf23-d61e-4ff2-b4ac-2f64b1047e47"
+      },
+      {
+        "key": "martina.rueedi@yatri.ch",
+        "imageInitials": "MR",
+        "text": "Martina Rüedi",
+        "hasImage": true,
+        "imageAlt": "Martina Rüedi",
+        "personaName": "Martina Rüedi",
+        "membershipType": 2,
+        "msGraphUserId": "3e97565b-1763-4465-b56a-09fbd33f4a3b"
+      },
+      {
+        "key": "jean-pierre.cattin@yatri.ch",
+        "imageInitials": "JC",
+        "text": "Jean-Pierre Cattin",
+        "hasImage": true,
+        "imageAlt": "Jean-Pierre Cattin",
+        "personaName": "Jean-Pierre Cattin",
+        "membershipType": 2,
+        "msGraphUserId": "b02cc7d7-d517-491d-9cf2-ac68d475a179"
+      },
+      {
+        "key": "franziska.freud@yatri.ch",
+        "imageInitials": "FF",
+        "text": "Franziska Freud",
+        "hasImage": true,
+        "imageAlt": "Franziska Freud",
+        "personaName": "Franziska Freud",
+        "membershipType": 2,
+        "msGraphUserId": "9c872601-9af5-4016-bca9-9a0a258b7211"
+      }
+    ],
+    "totalMembers": 12,
+    "ownersStr": "[{\"key\":\"daniel.schnyder@yatri.ch\",\"imageInitials\":\"DS\",\"text\":\"Daniel Schnyder\",\"hasImage\":true,\"imageAlt\":\"Daniel Schnyder\",\"personaName\":\"Daniel Schnyder\",\"membershipType\":1,\"msGraphUserId\":\"0450d426-a3fe-4eea-be7a-5533cf7f7944\"},{\"key\":\"lukas@yatri.ch\",\"imageInitials\":\"LM\",\"text\":\"Lukas Müller\",\"hasImage\":true,\"imageAlt\":\"Lukas Müller\",\"personaName\":\"Lukas Müller\",\"membershipType\":1,\"msGraphUserId\":\"b118b1f2-e35a-4ac8-a11f-55e4ec10f7fb\"},{\"key\":\"raphael.frei@yatri.ch\",\"imageInitials\":\"RF\",\"text\":\"Raphael Frei\",\"hasImage\":true,\"imageAlt\":\"Raphael Frei\",\"personaName\":\"Raphael Frei\",\"membershipType\":1,\"msGraphUserId\":\"7b42cf51-8033-4c68-b34d-e16ed9a876da\"}]",
+    "totalOwners": 11,
+    "owners": [
+      {
+        "key": "daniel.schnyder@yatri.ch",
+        "imageInitials": "DS",
+        "text": "Daniel Schnyder",
+        "hasImage": true,
+        "imageAlt": "Daniel Schnyder",
+        "personaName": "Daniel Schnyder",
+        "membershipType": 1,
+        "msGraphUserId": "0450d426-a3fe-4eea-be7a-5533cf7f7944"
+      },
+      {
+        "key": "lukas@yatri.ch",
+        "imageInitials": "LM",
+        "text": "Lukas Müller",
+        "hasImage": true,
+        "imageAlt": "Lukas Müller",
+        "personaName": "Lukas Müller",
+        "membershipType": 1,
+        "msGraphUserId": "b118b1f2-e35a-4ac8-a11f-55e4ec10f7fb"
+      },
+      {
+        "key": "raphael.frei@yatri.ch",
+        "imageInitials": "RF",
+        "text": "Raphael Frei",
+        "hasImage": true,
+        "imageAlt": "Raphael Frei",
+        "personaName": "Raphael Frei",
+        "membershipType": 1,
+        "msGraphUserId": "7b42cf51-8033-4c68-b34d-e16ed9a876da"
+      },
+      {
+        "key": "bot@yatri.ch",
+        "imageInitials": "BY",
+        "text": "Bot Yatri",
+        "hasImage": false,
+        "imageAlt": "Bot Yatri",
+        "personaName": "Bot Yatri",
+        "membershipType": 1,
+        "msGraphUserId": "53281055-07ec-4355-9174-01282d90ca9a"
+      },
+      {
+        "key": "sandro.klaentschi@yatri.ch",
+        "imageInitials": "SK",
+        "text": "Sandro Kläntschi",
+        "hasImage": true,
+        "imageAlt": "Sandro Kläntschi",
+        "personaName": "Sandro Kläntschi",
+        "membershipType": 1,
+        "msGraphUserId": "cff7d23b-9b29-494d-b261-62fc6e5bf67e"
+      },
+      {
+        "key": "vanessa.becker@yatri.ch",
+        "imageInitials": "VB",
+        "text": "Vanessa Becker",
+        "hasImage": true,
+        "imageAlt": "Vanessa Becker",
+        "personaName": "Vanessa Becker",
+        "membershipType": 1,
+        "msGraphUserId": "64268ae1-fa8d-4420-a8bb-89c882649eba"
+      },
+      {
+        "key": "priska.scherrer@yatri.ch",
+        "imageInitials": "PS",
+        "text": "Priska Scherrer",
+        "hasImage": true,
+        "imageAlt": "Priska Scherrer",
+        "personaName": "Priska Scherrer",
+        "membershipType": 1,
+        "msGraphUserId": "30f48cfd-e613-4355-8441-17ffcbaff4e6"
+      },
+      {
+        "key": "mario.niederhauser@yatri.ch",
+        "imageInitials": "MN",
+        "text": "Mario Niederhauser",
+        "hasImage": true,
+        "imageAlt": "Mario Niederhauser",
+        "personaName": "Mario Niederhauser",
+        "membershipType": 1,
+        "msGraphUserId": "d21a6903-15c9-41ad-be23-09b270954a2b"
+      },
+      {
+        "key": "timo.feller@yatri.ch",
+        "imageInitials": "TF",
+        "text": "Timo Feller",
+        "hasImage": true,
+        "imageAlt": "Timo Feller",
+        "personaName": "Timo Feller",
+        "membershipType": 1,
+        "msGraphUserId": "f065cf23-d61e-4ff2-b4ac-2f64b1047e47"
+      },
+      {
+        "key": "martina.rueedi@yatri.ch",
+        "imageInitials": "MR",
+        "text": "Martina Rüedi",
+        "hasImage": true,
+        "imageAlt": "Martina Rüedi",
+        "personaName": "Martina Rüedi",
+        "membershipType": 1,
+        "msGraphUserId": "3e97565b-1763-4465-b56a-09fbd33f4a3b"
+      },
+      {
+        "key": "jean-pierre.cattin@yatri.ch",
+        "imageInitials": "JC",
+        "text": "Jean-Pierre Cattin",
+        "hasImage": true,
+        "imageAlt": "Jean-Pierre Cattin",
+        "personaName": "Jean-Pierre Cattin",
+        "membershipType": 1,
+        "msGraphUserId": "b02cc7d7-d517-491d-9cf2-ac68d475a179"
+      }
+    ],
+    "unseenCount": "0",
+    "enableDiscoverySettings": "True",
+    "defaultapp": "useapp2",
+    "filterstringkey1": "ValoTeamworkType",
+    "filterstringvalue1": "GroupTemplate_Projekt mit MS Teams",
+    "useapp1": "true",
+    "useapp2": "true",
+    "useapp2opturl": "",
+    "useapp3": "true",
+    "useapp4": "true",
+    "useapp5": "false",
+    "useapp5opturl": "",
+    "useapp6": "true",
+    "useapp7": "false",
+    "useapp8": "false",
+    "useapp9": "false",
+    "linkkey1": "",
+    "linkvalue1": "",
+    "linkkey2": "",
+    "linkvalue2": "",
+    "linkkey3": "",
+    "linkvalue3": "",
+    "linkkey4": "",
+    "linkvalue4": "",
+    "linkkey5": "",
+    "linkvalue5": "",
+    "favourite": false,
+    "state": "",
+    "templateName": "#Std Projekt [Microsoft Teams]",
+    "templateNameLowerCase": "#std projekt [microsoft teams]",
+    "dynamicMetadata": {
+      "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+      "updatedBy": null,
+      "fieldValues": [
+        {
+          "fieldName": "ValoTWEntProjectManager",
+          "fieldType": "User",
+          "values": ["daniel.schnyder@yatri.ch"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectStartTime",
+          "fieldType": "DateTime",
+          "values": ["2022-01-31T20:00:00"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectEndDate",
+          "fieldType": "DateTime",
+          "values": ["2022-08-27T16:00:00"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectStatus",
+          "fieldType": "Choice",
+          "values": ["Eingreifen erforderlich"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectID",
+          "fieldType": "Text",
+          "values": ["123-456"]
+        },
+        {
+          "fieldName": "ValoTWEntProjectType",
+          "fieldType": "Choice",
+          "values": ["Projekt"]
+        }
+      ]
+    },
+    "id": "ad5fc19e-7621-4cd3-a16e-85fbd8675048",
+    "title": "PR-Einführung ERP",
+    "titleLowerCase": "pr-einführung erp",
+    "description": "Einführung ERP",
+    "allowExternalSharing": "true",
+    "classification": "",
+    "visibility": "Public",
+    "createdDateTime": "2022-02-16T15:45:19.0000000Z",
+    "partitionKey": "Group",
+    "groupActivity": {
+      "groupId": "ad5fc19e-7621-4cd3-a16e-85fbd8675048",
+      "reportRefreshDate": null,
+      "isDeleted": false,
+      "lastActivityDate": null,
+      "memberCount": null,
+      "externalMemberCount": null,
+      "reportPeriod": null,
+      "daysInactive": null
+    },
+    "_rid": "PrBdANRQnCXHAQAAAAAAAA==",
+    "_self": "dbs/PrBdAA==/colls/PrBdANRQnCU=/docs/PrBdANRQnCXHAQAAAAAAAA==/",
+    "_etag": "\"1300143f-0000-0d00-0000-6480833a0000\"",
+    "_attachments": "attachments/",
+    "_ts": 1686143802
+  }
+]

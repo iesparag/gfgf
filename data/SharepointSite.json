@@ -1,0 +1,26 @@
+{
+  "id": "9c79b760-ff4b-472f-a2cd-3c76fe19778e_a8b5cc20-49e4-40e0-8775-ff599d6fa0de",
+  "webId": "a8b5cc20-49e4-40e0-8775-ff599d6fa0de",
+  "siteId": "9c79b760-ff4b-472f-a2cd-3c76fe19778e",
+  "siteUrl": "https://beetrootag.sharepoint.com/sites/grouplesstest",
+  "state": null,
+  "dynamicMetadata": {
+    "ctId": "0x0100961E60A8F8D7724CBC74B293934032AA",
+    "updatedBy": null,
+    "fieldValues": [
+      {
+        "fieldName": "Prozess",
+        "fieldType": "TaxonomyFieldType",
+        "values": null
+      }
+    ]
+  },
+  "filterstringkey1": "ValoTeamworkType",
+  "filterstringvalue1": "GroupTemplate SiteTemplateModern1",
+  "partitionKey": "Site",
+  "_rid": "BYhQAPyoigkBAAAAAAAAAA==",
+  "_self": "dbs/BYhQAA==/colls/BYhQAPyoigk=/docs/BYhQAPyoigkBAAAAAAAAAA==/",
+  "_etag": "\"4300246f-0000-0d00-0000-63dbc62e0000\"",
+  "_attachments": "attachments/",
+  "_ts": 1675347502
+}

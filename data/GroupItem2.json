@@ -1,0 +1,332 @@
+{
+  "siteUrl": "https://yatri.sharepoint.com/sites/pr-einfhrungerp",
+  "picture": "https://yatri.sharepoint.com/sites/teamworkadmin/TeamworkGraphImagesCache/Groups/ad5fc19e-7621-4cd3-a16e-85fbd8675048.png",
+  "membersStr": "[{\"key\":\"daniel.schnyder@yatri.ch\",\"imageInitials\":\"DS\",\"text\":\"Daniel Schnyder\",\"hasImage\":true,\"imageAlt\":\"Daniel Schnyder\",\"personaName\":\"Daniel Schnyder\",\"membershipType\":2,\"msGraphUserId\":\"0450d426-a3fe-4eea-be7a-5533cf7f7944\"},{\"key\":\"lukas@yatri.ch\",\"imageInitials\":\"LM\",\"text\":\"Lukas Müller\",\"hasImage\":true,\"imageAlt\":\"Lukas Müller\",\"personaName\":\"Lukas Müller\",\"membershipType\":2,\"msGraphUserId\":\"b118b1f2-e35a-4ac8-a11f-55e4ec10f7fb\"},{\"key\":\"raphael.frei@yatri.ch\",\"imageInitials\":\"RF\",\"text\":\"Raphael Frei\",\"hasImage\":true,\"imageAlt\":\"Raphael Frei\",\"personaName\":\"Raphael Frei\",\"membershipType\":2,\"msGraphUserId\":\"7b42cf51-8033-4c68-b34d-e16ed9a876da\"}]",
+  "members": [
+    {
+      "key": "daniel.schnyder@yatri.ch",
+      "imageInitials": "DS",
+      "text": "Daniel Schnyder",
+      "hasImage": true,
+      "imageAlt": "Daniel Schnyder",
+      "personaName": "Daniel Schnyder",
+      "membershipType": 2,
+      "msGraphUserId": "0450d426-a3fe-4eea-be7a-5533cf7f7944"
+    },
+    {
+      "key": "lukas@yatri.ch",
+      "imageInitials": "LM",
+      "text": "Lukas Müller",
+      "hasImage": true,
+      "imageAlt": "Lukas Müller",
+      "personaName": "Lukas Müller",
+      "membershipType": 2,
+      "msGraphUserId": "b118b1f2-e35a-4ac8-a11f-55e4ec10f7fb"
+    },
+    {
+      "key": "raphael.frei@yatri.ch",
+      "imageInitials": "RF",
+      "text": "Raphael Frei",
+      "hasImage": true,
+      "imageAlt": "Raphael Frei",
+      "personaName": "Raphael Frei",
+      "membershipType": 2,
+      "msGraphUserId": "7b42cf51-8033-4c68-b34d-e16ed9a876da"
+    },
+    {
+      "key": "bot@yatri.ch",
+      "imageInitials": "BY",
+      "text": "Bot Yatri",
+      "hasImage": false,
+      "imageAlt": "Bot Yatri",
+      "personaName": "Bot Yatri",
+      "membershipType": 2,
+      "msGraphUserId": "53281055-07ec-4355-9174-01282d90ca9a"
+    },
+    {
+      "key": "sandro.klaentschi@yatri.ch",
+      "imageInitials": "SK",
+      "text": "Sandro Kläntschi",
+      "hasImage": true,
+      "imageAlt": "Sandro Kläntschi",
+      "personaName": "Sandro Kläntschi",
+      "membershipType": 2,
+      "msGraphUserId": "cff7d23b-9b29-494d-b261-62fc6e5bf67e"
+    },
+    {
+      "key": "vanessa.becker@yatri.ch",
+      "imageInitials": "VB",
+      "text": "Vanessa Becker",
+      "hasImage": true,
+      "imageAlt": "Vanessa Becker",
+      "personaName": "Vanessa Becker",
+      "membershipType": 2,
+      "msGraphUserId": "64268ae1-fa8d-4420-a8bb-89c882649eba"
+    },
+    {
+      "key": "priska.scherrer@yatri.ch",
+      "imageInitials": "PS",
+      "text": "Priska Scherrer",
+      "hasImage": true,
+      "imageAlt": "Priska Scherrer",
+      "personaName": "Priska Scherrer",
+      "membershipType": 2,
+      "msGraphUserId": "30f48cfd-e613-4355-8441-17ffcbaff4e6"
+    },
+    {
+      "key": "mario.niederhauser@yatri.ch",
+      "imageInitials": "MN",
+      "text": "Mario Niederhauser",
+      "hasImage": true,
+      "imageAlt": "Mario Niederhauser",
+      "personaName": "Mario Niederhauser",
+      "membershipType": 2,
+      "msGraphUserId": "d21a6903-15c9-41ad-be23-09b270954a2b"
+    },
+    {
+      "key": "timo.feller@yatri.ch",
+      "imageInitials": "TF",
+      "text": "Timo Feller",
+      "hasImage": true,
+      "imageAlt": "Timo Feller",
+      "personaName": "Timo Feller",
+      "membershipType": 2,
+      "msGraphUserId": "f065cf23-d61e-4ff2-b4ac-2f64b1047e47"
+    },
+    {
+      "key": "martina.rueedi@yatri.ch",
+      "imageInitials": "MR",
+      "text": "Martina Rüedi",
+      "hasImage": true,
+      "imageAlt": "Martina Rüedi",
+      "personaName": "Martina Rüedi",
+      "membershipType": 2,
+      "msGraphUserId": "3e97565b-1763-4465-b56a-09fbd33f4a3b"
+    },
+    {
+      "key": "jean-pierre.cattin@yatri.ch",
+      "imageInitials": "JC",
+      "text": "Jean-Pierre Cattin",
+      "hasImage": true,
+      "imageAlt": "Jean-Pierre Cattin",
+      "personaName": "Jean-Pierre Cattin",
+      "membershipType": 2,
+      "msGraphUserId": "b02cc7d7-d517-491d-9cf2-ac68d475a179"
+    },
+    {
+      "key": "franziska.freud@yatri.ch",
+      "imageInitials": "FF",
+      "text": "Franziska Freud",
+      "hasImage": true,
+      "imageAlt": "Franziska Freud",
+      "personaName": "Franziska Freud",
+      "membershipType": 2,
+      "msGraphUserId": "9c872601-9af5-4016-bca9-9a0a258b7211"
+    }
+  ],
+  "totalMembers": 12,
+  "ownersStr": "[{\"key\":\"daniel.schnyder@yatri.ch\",\"imageInitials\":\"DS\",\"text\":\"Daniel Schnyder\",\"hasImage\":true,\"imageAlt\":\"Daniel Schnyder\",\"personaName\":\"Daniel Schnyder\",\"membershipType\":1,\"msGraphUserId\":\"0450d426-a3fe-4eea-be7a-5533cf7f7944\"},{\"key\":\"lukas@yatri.ch\",\"imageInitials\":\"LM\",\"text\":\"Lukas Müller\",\"hasImage\":true,\"imageAlt\":\"Lukas Müller\",\"personaName\":\"Lukas Müller\",\"membershipType\":1,\"msGraphUserId\":\"b118b1f2-e35a-4ac8-a11f-55e4ec10f7fb\"},{\"key\":\"raphael.frei@yatri.ch\",\"imageInitials\":\"RF\",\"text\":\"Raphael Frei\",\"hasImage\":true,\"imageAlt\":\"Raphael Frei\",\"personaName\":\"Raphael Frei\",\"membershipType\":1,\"msGraphUserId\":\"7b42cf51-8033-4c68-b34d-e16ed9a876da\"}]",
+  "totalOwners": 11,
+  "owners": [
+    {
+      "key": "daniel.schnyder@yatri.ch",
+      "imageInitials": "DS",
+      "text": "Daniel Schnyder",
+      "hasImage": true,
+      "imageAlt": "Daniel Schnyder",
+      "personaName": "Daniel Schnyder",
+      "membershipType": 1,
+      "msGraphUserId": "0450d426-a3fe-4eea-be7a-5533cf7f7944"
+    },
+    {
+      "key": "lukas@yatri.ch",
+      "imageInitials": "LM",
+      "text": "Lukas Müller",
+      "hasImage": true,
+      "imageAlt": "Lukas Müller",
+      "personaName": "Lukas Müller",
+      "membershipType": 1,
+      "msGraphUserId": "b118b1f2-e35a-4ac8-a11f-55e4ec10f7fb"
+    },
+    {
+      "key": "raphael.frei@yatri.ch",
+      "imageInitials": "RF",
+      "text": "Raphael Frei",
+      "hasImage": true,
+      "imageAlt": "Raphael Frei",
+      "personaName": "Raphael Frei",
+      "membershipType": 1,
+      "msGraphUserId": "7b42cf51-8033-4c68-b34d-e16ed9a876da"
+    },
+    {
+      "key": "bot@yatri.ch",
+      "imageInitials": "BY",
+      "text": "Bot Yatri",
+      "hasImage": false,
+      "imageAlt": "Bot Yatri",
+      "personaName": "Bot Yatri",
+      "membershipType": 1,
+      "msGraphUserId": "53281055-07ec-4355-9174-01282d90ca9a"
+    },
+    {
+      "key": "sandro.klaentschi@yatri.ch",
+      "imageInitials": "SK",
+      "text": "Sandro Kläntschi",
+      "hasImage": true,
+      "imageAlt": "Sandro Kläntschi",
+      "personaName": "Sandro Kläntschi",
+      "membershipType": 1,
+      "msGraphUserId": "cff7d23b-9b29-494d-b261-62fc6e5bf67e"
+    },
+    {
+      "key": "vanessa.becker@yatri.ch",
+      "imageInitials": "VB",
+      "text": "Vanessa Becker",
+      "hasImage": true,
+      "imageAlt": "Vanessa Becker",
+      "personaName": "Vanessa Becker",
+      "membershipType": 1,
+      "msGraphUserId": "64268ae1-fa8d-4420-a8bb-89c882649eba"
+    },
+    {
+      "key": "priska.scherrer@yatri.ch",
+      "imageInitials": "PS",
+      "text": "Priska Scherrer",
+      "hasImage": true,
+      "imageAlt": "Priska Scherrer",
+      "personaName": "Priska Scherrer",
+      "membershipType": 1,
+      "msGraphUserId": "30f48cfd-e613-4355-8441-17ffcbaff4e6"
+    },
+    {
+      "key": "mario.niederhauser@yatri.ch",
+      "imageInitials": "MN",
+      "text": "Mario Niederhauser",
+      "hasImage": true,
+      "imageAlt": "Mario Niederhauser",
+      "personaName": "Mario Niederhauser",
+      "membershipType": 1,
+      "msGraphUserId": "d21a6903-15c9-41ad-be23-09b270954a2b"
+    },
+    {
+      "key": "timo.feller@yatri.ch",
+      "imageInitials": "TF",
+      "text": "Timo Feller",
+      "hasImage": true,
+      "imageAlt": "Timo Feller",
+      "personaName": "Timo Feller",
+      "membershipType": 1,
+      "msGraphUserId": "f065cf23-d61e-4ff2-b4ac-2f64b1047e47"
+    },
+    {
+      "key": "martina.rueedi@yatri.ch",
+      "imageInitials": "MR",
+      "text": "Martina Rüedi",
+      "hasImage": true,
+      "imageAlt": "Martina Rüedi",
+      "personaName": "Martina Rüedi",
+      "membershipType": 1,
+      "msGraphUserId": "3e97565b-1763-4465-b56a-09fbd33f4a3b"
+    },
+    {
+      "key": "jean-pierre.cattin@yatri.ch",
+      "imageInitials": "JC",
+      "text": "Jean-Pierre Cattin",
+      "hasImage": true,
+      "imageAlt": "Jean-Pierre Cattin",
+      "personaName": "Jean-Pierre Cattin",
+      "membershipType": 1,
+      "msGraphUserId": "b02cc7d7-d517-491d-9cf2-ac68d475a179"
+    }
+  ],
+  "unseenCount": "0",
+  "enableDiscoverySettings": "True",
+  "defaultapp": "useapp2",
+  "filterstringkey1": "ValoTeamworkType",
+  "filterstringvalue1": "GroupTemplate_Projekt mit MS Teams",
+  "useapp1": "true",
+  "useapp2": "true",
+  "useapp2opturl": "",
+  "useapp3": "true",
+  "useapp4": "true",
+  "useapp5": "false",
+  "useapp5opturl": "",
+  "useapp6": "true",
+  "useapp7": "false",
+  "useapp8": "false",
+  "useapp9": "false",
+  "linkkey1": "",
+  "linkvalue1": "",
+  "linkkey2": "",
+  "linkvalue2": "",
+  "linkkey3": "",
+  "linkvalue3": "",
+  "linkkey4": "",
+  "linkvalue4": "",
+  "linkkey5": "",
+  "linkvalue5": "",
+  "favourite": false,
+  "state": "",
+  "templateName": "#Std Projekt [Microsoft Teams]",
+  "templateNameLowerCase": "#std projekt [microsoft teams]",
+  "dynamicMetadata": {
+    "ctId": "0x01008CFB105E6FB84891A7538519E777B1CB",
+    "updatedBy": null,
+    "fieldValues": [
+      {
+        "fieldName": "ValoTWEntProjectManager",
+        "fieldType": "User",
+        "values": ["daniel.schnyder@yatri.ch"]
+      },
+      {
+        "fieldName": "ValoTWEntProjectStartTime",
+        "fieldType": "DateTime",
+        "values": ["2022-01-31T20:00:00"]
+      },
+      {
+        "fieldName": "ValoTWEntProjectEndDate",
+        "fieldType": "DateTime",
+        "values": ["2022-08-27T16:00:00"]
+      },
+      {
+        "fieldName": "ValoTWEntProjectStatus",
+        "fieldType": "Choice",
+        "values": ["Eingreifen erforderlich"]
+      },
+      {
+        "fieldName": "ValoTWEntProjectID",
+        "fieldType": "Text",
+        "values": ["123-456"]
+      },
+      {
+        "fieldName": "ValoTWEntProjectType",
+        "fieldType": "Choice",
+        "values": ["Projekt"]
+      }
+    ]
+  },
+  "id": "ad5fc19e-7621-4cd3-a16e-85fbd8675048",
+  "title": "PR-Einführung ERP",
+  "titleLowerCase": "pr-einführung erp",
+  "description": "Einführung ERP",
+  "allowExternalSharing": "true",
+  "classification": "",
+  "visibility": "Public",
+  "createdDateTime": "2022-02-16T15:45:19.0000000Z",
+  "partitionKey": "Group",
+  "groupActivity": {
+    "groupId": "ad5fc19e-7621-4cd3-a16e-85fbd8675048",
+    "reportRefreshDate": null,
+    "isDeleted": false,
+    "lastActivityDate": null,
+    "memberCount": null,
+    "externalMemberCount": null,
+    "reportPeriod": null,
+    "daysInactive": null
+  },
+  "_rid": "PrBdANRQnCXHAQAAAAAAAA==",
+  "_self": "dbs/PrBdAA==/colls/PrBdANRQnCU=/docs/PrBdANRQnCXHAQAAAAAAAA==/",
+  "_etag": "\"1300143f-0000-0d00-0000-6480833a0000\"",
+  "_attachments": "attachments/",
+  "_ts": 1686143802
+}
